@@ -8,6 +8,5 @@ Image detection, frontend
 Frontend
 --------
 
-    $ yarn
-    $ yarn start
+    $ python model.py
 
